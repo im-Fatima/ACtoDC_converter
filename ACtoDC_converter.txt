@@ -1,0 +1,3 @@
+DESCRIPTION:
+
+"Terminal Block 1" takes the AC input from the transformer. Then the four "1N4007" diode are working as a brigde diode to convert AC into DC. Then this pulsating DC Voltage is filtered out by the capacitor in parallel which outputs a purely DC voltage. The resistor in parallel to the capacitor is responsible for discharging the capacitor. Then the resistor along with LED indicates if this AC-to-DC converter is working or not. "Terminal Block 2" gives the DC output of the circuit.
